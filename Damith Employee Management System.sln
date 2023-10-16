@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Damith-EMS", "Damith Employee Management System\Damith-EMS.csproj", "{CAF5C996-46A9-4C6F-8148-C30EC1DCBAC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF5C996-46A9-4C6F-8148-C30EC1DCBAC5}.Debug|x86.ActiveCfg = Debug|x86
+		{CAF5C996-46A9-4C6F-8148-C30EC1DCBAC5}.Debug|x86.Build.0 = Debug|x86
+		{CAF5C996-46A9-4C6F-8148-C30EC1DCBAC5}.Release|x86.ActiveCfg = Release|x86
+		{CAF5C996-46A9-4C6F-8148-C30EC1DCBAC5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
